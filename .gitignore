@@ -1,0 +1,22 @@
+# Private working space — never committed
+CLAUDE.md
+drafts/
+raw/
+
+# Quartz build artifacts
+node_modules/
+public/
+.quartz-cache/
+.next/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.obsidian/
+.vscode/
+*.log
+
+# Env / secrets
+.env
+.env.local
+*.key
