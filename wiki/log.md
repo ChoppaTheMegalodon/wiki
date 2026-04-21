@@ -15,6 +15,16 @@
 - Updated: `wiki/index.md`
 - First ingest of the vault. Seeds two foundational thesis pages (`invisibility-tax`, `portfolio-as-proof`) that future sources are likely to cross-reference.
 
+## [2026-04-21] reframe | Stripped BD framing from Pyth section
+- Chop's call: community-first is the differentiated positioning; BD-generalist dilutes it. Partnerships are downstream of community gravity, not a parallel function.
+- Deleted `wiki/pyth/bd-philosophy.md`
+- Updated `wiki/pyth/index.md`: "Community Lead + BD" → "Community Lead", removed BD row from Scope table, added "Partnerships (Downstream)" row framed as community-output, removed bd-philosophy link
+- Updated `wiki/pyth/thesis.md`: removed bd-philosophy cross-refs, reframed agent-economy paragraph to lead with community gravity over BD priority, reframed closing "BD has to close" → "integrations have to work" with explicit "downstream of community" close
+- Updated `wiki/pyth/philosophy.md`: removed bd-philosophy cross-ref
+- Updated `wiki/pyth/programs.md`: "BD + Partnerships" → "Partnerships (Downstream)" with community-first framing
+- Updated `wiki/index.md` root landing: removed bd-philosophy link
+- Updated `drafts/PYTH_GAPS.md`: renamed "BD Wins" → "Community-Led Partnership Wins" with updated framing guidance
+
 ## [2026-04-21] ingest | Pyth Community section scaffolded
 - Created `wiki/pyth/` with 5 pages:
   - `index.md` — "The Pyth Community Maestro" (hero frame, role overview)

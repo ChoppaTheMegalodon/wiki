@@ -8,11 +8,11 @@ updated: 2026-04-21
 
 # The Pyth Community Maestro
 
-**Role:** Community Lead + BD, Pyth Network
+**Role:** Community Lead, Pyth Network
 
-I run the community and BD function at Pyth Network — the first-party oracle network delivering 400+ price feeds across 100+ blockchains, powering 60% of perpetuals protocols on-chain. The thesis is simple: Pyth is building the **price layer for global finance**, and the $50B+ financial data industry that Bloomberg and Reuters have dominated for decades is being quietly disrupted underneath it.
+I run the community function at Pyth Network — the first-party oracle network delivering 400+ price feeds across 100+ blockchains, powering 60% of perpetuals protocols on-chain. The thesis is simple: Pyth is building the **price layer for global finance**, and the $50B+ financial data industry that Bloomberg and Reuters have dominated for decades is being quietly disrupted underneath it.
 
-My job is to make sure the 500K+ community around this network is the moat — not a marketing funnel, not a vanity metric, but a real cultural machine that compounds over decades.
+My job is to make sure the 500K+ community around this network is the moat — not a marketing funnel, not a vanity metric, but a real cultural machine that compounds over decades. Partnerships, integrations, and ecosystem wins flow *out* of that community gravity; they don't precede it.
 
 ---
 
@@ -33,7 +33,6 @@ Community at this scale isn't one program — it's a dozen moving parts (Discord
 - [[philosophy]] — How I think about community. Living machines, flywheels, immune systems, the Choppa Calculus. This is the theoretical backbone.
 - [[programs]] — The specific programs and systems I've designed, built, or inherited-and-rebuilt at Pyth. Community Council, MissionMonitor, PythClippers, Pythentity, Vibecodeathon, Asset Info Packs, Impact Awards, Discord infrastructure.
 - [[thesis]] — The strategic argument. Why community-led wins. Why AI discoverability is the next front. Why the agent economy is Pyth's revenue future.
-- [[bd-philosophy]] — Partnership frameworks. How I approach counterparties, co-marketing, ecosystem integrations.
 
 ---
 
@@ -42,10 +41,10 @@ Community at this scale isn't one program — it's a dozen moving parts (Discord
 | Domain | What I Own |
 |--------|-----------|
 | **Community Operations** | Discord + Telegram structure, contributor recognition systems, incentive program design |
-| **Business Development** | Partner outreach, integration support, creator/influencer partnerships, protocol-to-protocol BD |
 | **Content Strategy** | AI discoverability, Asset Info Packs, the Content Incentive Stack architecture |
 | **Governance** | Community Council (which I founded — see [[programs#community-council]]), DAO proposal coordination, election processes |
 | **Tooling** | MissionMonitor, Pythentity, PythClippers, supporting bots + dashboards |
+| **Partnerships** | Downstream output — the integrations, creator deals, and ecosystem relationships that emerge when the community itself becomes the asset |
 
 ---
 

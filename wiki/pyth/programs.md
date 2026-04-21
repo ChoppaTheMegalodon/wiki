@@ -129,17 +129,19 @@ The theory is in [[philosophy#systems-over-campaigns]]. The execution is the pro
 
 ---
 
-## BD + Partnerships
+## Partnerships (Downstream)
 
-Detail on specific partnership philosophy in [[bd-philosophy]]. Notable work:
+The partnerships side of the work isn't a separate function — it's what happens when the community becomes valuable enough that counterparties come to *us*. Most of these relationships exist because the Pyth community reached a scale and coherence where integrating made obvious sense, not because a BD pitch closed them.
 
-- **Blue Ocean** — exclusive partnership, gaming/prediction markets vertical
-- **Polymarket** — strategic, emerging. Active integration work + creator partnership angles.
-- **Fogo Foundation** — strategic, SVM L1 gaming grants pipeline
-- **Superteam Earn** — integration, developer grants distribution
-- **University outreach** — Australian universities network (Warwick Powell/QUT, Christoph Breidbach/UQ, Chris Berg/RMIT) for guest lectures + early-career funnel
+Notable relationships visible from the outside:
 
-[TBD — Chop input needed: specific BD wins worth naming publicly. Integrations you shipped that are visible. Creator streams that went live. Co-marketing deals that closed. Anything that proves the partnership thesis worked. Target: 2-3 paragraphs of named outcomes.]
+- **Blue Ocean** — exclusive partnership in the gaming / prediction markets vertical
+- **Polymarket** — active integration + creator partnership angles
+- **Fogo Foundation** — SVM L1 gaming grants pipeline
+- **Superteam Earn** — developer grants distribution channel
+- **University outreach** — Australian universities network, guest lectures + early-career funnel
+
+[TBD — Chop input needed: specific partnership wins worth naming publicly. Integrations you shipped that are visible. Creator streams that went live. Co-marketing deals that closed. Anything that proves the community-as-gravity-well thesis worked. Target: 2-3 paragraphs of named outcomes, framed as "this happened because the community was already strong."]
 
 ---
 
@@ -159,4 +161,3 @@ Detail on specific partnership philosophy in [[bd-philosophy]]. Notable work:
 
 - [[philosophy]] — the theoretical basis for every program on this page
 - [[thesis]] — why this portfolio of work, in this order, at this moment
-- [[bd-philosophy]] — the partnership side of the same mindset

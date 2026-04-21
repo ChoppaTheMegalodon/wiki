@@ -18,7 +18,6 @@ This site is a living knowledge base. Built in the [Karpathy pattern](https://ka
 - [[pyth/index|The Pyth Community Maestro]] — what I do at Pyth Network, and the community operation behind it.
 - [[pyth/philosophy|Community Philosophy]] — living machines, flywheels, and the Choppa Calculus.
 - [[pyth/thesis|The Pyth Thesis]] — institutional insurgent, AI discoverability, agent economy.
-- [[pyth/bd-philosophy|BD Philosophy]] — how I run partnerships.
 
 **Thesis**
 - [[invisibility-tax]] — The hidden career cost of letting only your boss know you're good at your job.

@@ -66,7 +66,7 @@ Longer-term thesis: **agents paying for price data.**
 
 Pyth Pro + the Pyth MCP Server are infrastructure for a world where autonomous agents — trading bots, AI-driven market makers, on-chain analytics systems — consume price feeds directly, pay per request, and settle programmatically. No enterprise contracts, no account executives, no six-month sales cycles. Agents swipe a credit, get the data, execute.
 
-This is the revenue future. Every DeFi protocol that integrates Pyth today is a proof-point for the agent market of tomorrow. The MCP Server is live; the agent framework integrations (LangChain, AutoGPT, CrewAI) are the next BD priority. See [[bd-philosophy]] for the approach.
+This is the revenue future. Every DeFi protocol that integrates Pyth today is a proof-point for the agent market of tomorrow. The MCP Server is live; the agent framework integrations (LangChain, AutoGPT, CrewAI) are next — and they'll close faster because the community around Pyth has already made those integrations obvious, demanded, and culturally pre-sold.
 
 ---
 
@@ -80,13 +80,12 @@ Put the three pieces together:
 
 Each is individually defensible. Together, they describe a network that isn't playing for the current cycle — it's playing for 2030.
 
-My job as the [[index|Community Maestro]] is to make sure the community side of that triangle is the strongest. Not because community is all that matters — the tech has to be right, the BD has to close, the content has to ship — but because the community is the piece that compounds the hardest if you get it right, and dies the fastest if you get it wrong.
+My job as the [[index|Community Maestro]] is to make sure the community side of that triangle is the strongest. Not because community is all that matters — the tech has to be right, the content has to ship, the integrations have to work — but because the community is the piece that compounds the hardest if you get it right, and dies the fastest if you get it wrong. Everything else (partnerships, creator deals, ecosystem BD) is downstream of a community that's already worth showing up for.
 
 ---
 
 ## Related
 
-- [[philosophy]] — the theoretical basis for the community half of the thesis
+- [[philosophy]] — the theoretical basis for this thesis
 - [[programs]] — the specific execution
-- [[bd-philosophy]] — the partnership half of the same argument
 - [Why Communities Beat VCs](../writings/why-communities-beat-vcs/why-communities-beat-vcs) — the 2024 parent essay this thesis extends

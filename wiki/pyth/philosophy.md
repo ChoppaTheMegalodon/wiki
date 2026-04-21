@@ -113,7 +113,6 @@ This is why so many of the programs in [[programs]] look the way they do — Mis
 
 - [[programs]] — How the philosophy translates into specific programs at Pyth
 - [[thesis]] — The strategic argument this philosophy supports
-- [[bd-philosophy]] — How the same mindset applies to partnerships
 - [Creating a Community Cult(ure)](../writings/creating%20a%20community%20cult%28ure%29/Creating-a-community-cult%28ure%29) — the earlier theoretical piece on memetic community cults
 - [Why Communities Beat VCs](../writings/why-communities-beat-vcs/why-communities-beat-vcs) — the 2024 parent essay
 - [Crabs in a Bucket](../writings/Crabs%20in%20a%20Bucket;%20a%20Crypto%20Seafood%20Boil/Crabs-in-a-Bucket-a-Crypto-Seafood-Boil) — the immune-system / energy-vampire mechanics
