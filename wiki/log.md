@@ -15,6 +15,19 @@
 - Updated: `wiki/index.md`
 - First ingest of the vault. Seeds two foundational thesis pages (`invisibility-tax`, `portfolio-as-proof`) that future sources are likely to cross-reference.
 
+## [2026-04-21] ingest | Pyth Community section scaffolded
+- Created `wiki/pyth/` with 5 pages:
+  - `index.md` — "The Pyth Community Maestro" (hero frame, role overview)
+  - `philosophy.md` — living machines, flywheel, Choppa Calculus, Alcohol Standard, hopeslop, cultural monuments
+  - `programs.md` — program inventory (Community Council, Discord, Impact Awards, Pythenians, PIRB, MissionMonitor, PythClippers, Pythentity, Content Incentive Stack, Vibecodeathon, Asset Info Packs, Twitter Growth, BD, Speaking) — **marked `draft: true`** pending Chop's input on 10 gaps
+  - `thesis.md` — institutional insurgent, community-led, AI discoverability, agent economy
+  - `bd-philosophy.md` — partnership tiers + 6 principles (inversion, trojan horse, counter-positioning, social proof, uncomfortable question, meme-first)
+- Positioning frame confirmed: "The Pyth Community Maestro" (maestro, not manager — orchestrates all moving parts)
+- Source material drawn from existing `Pyth Community/` wiki + SOUL.md, curated through a public-vs-internal filter (no internal people-names, no blocker detail, no confidential partner pipeline)
+- Cross-linked heavily to `writings/` — the 2024-2025 essays become theoretical backbone for the 2026 portfolio
+- Created `drafts/PYTH_GAPS.md` — punchlist of 10 content items Chop needs to write (critical: Community Council origins. Others: Discord setup, Impact Awards, Pythenians, PIRB, BD wins, speaking appearances, operator wisdom, origin story)
+- Updated `wiki/index.md` landing page with Pyth section as first "Start Here" block
+
 ## [2026-04-21] build | Quartz scaffold + GitHub repo live
 - Initialized git at `Chop/` with remote `github.com/ChoppaTheMegalodon/wiki`
 - Cloned Quartz v4 template, moved framework files to repo root
