@@ -15,6 +15,13 @@
 - Updated: `wiki/index.md`
 - First ingest of the vault. Seeds two foundational thesis pages (`invisibility-tax`, `portfolio-as-proof`) that future sources are likely to cross-reference.
 
+## [2026-04-23] scaffold | Research + Influences hub
+- Created `wiki/pyth/research/` folder with `index.md` — categorized landing (Books / Essays / Talks / Articles / Conversations)
+- Includes reusable per-source template for book/paper/talk pages (title, core thesis, key ideas, where-it-shows-up-in-my-work, pull quotes, disagreements, related)
+- Cross-linked existing source page (`src-stop-being-invisible`) as the example pattern
+- Updated `thesis.md`: added pointer to research hub at top, added research link in Related
+- Pattern: one page per source worth taking seriously. Not a bibliography — a working intellectual journal with synthesis + disagreement, not summary
+
 ## [2026-04-22] scaffold | Memes library + images folder
 - Created `wiki/images/` for general wiki imagery (diagrams, headshots, headers) with README explaining conventions
 - Created `wiki/memes/` as OC-only meme library with two states:

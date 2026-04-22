@@ -10,6 +10,8 @@ updated: 2026-04-21
 
 Why this protocol, why this community design, why now. The strategic argument underneath everything I ship.
 
+For the intellectual lineage behind the arguments below — the books, essays, and talks that shaped how I think about community, networks, and institutional disruption — see [[research/index|Research + Influences]].
+
 ---
 
 ## The Institutional Insurgent
@@ -88,4 +90,5 @@ My job as the [[index|Community Maestro]] is to make sure the community side of 
 
 - [[philosophy]] — the theoretical basis for this thesis
 - [[programs]] — the specific execution
+- [[research/index|Research + Influences]] — the books, papers, and talks that informed this thinking
 - [Why Communities Beat VCs](../writings/why-communities-beat-vcs/why-communities-beat-vcs) — the 2024 parent essay this thesis extends

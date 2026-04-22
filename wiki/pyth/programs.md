@@ -15,22 +15,29 @@ updated: 2026-04-21
 
 The programs and systems I've designed, built, or inherited-and-rebuilt during my time at Pyth. Each one is a specific application of the [[philosophy]] — every program exists to feed at least one step of the Recognize → Reward → Attract → Identity → Contribute cycle.
 
-Organized by era, roughly.
+Section is organized by era, roughly.
 
 ---
 
 ## Community Council (Founded)
 
-I **built** the Community Council. This is the one I'm most proud of.
+I **built** the Community Council. This is one think within Pyth that I'm most proud of.
 
 [TBD — Chop input needed. This is a major portfolio signal and deserves the deepest treatment on the page. Tell me:
 - The year and context. What was the state of Pyth governance before the Council existed?
+-2024. The concept of the community council came about as part of an effort to decentralize power and allow concurrent community builders create with the authority of the DAO. It enabled a legal and financial framework that enabled more direct contributions from external participants.
 - The problem it was solving. Why did the protocol need a Council — what gap did you see?
+-There was no clear way for contributors with limited access to connections or capital to get access and exposure to the Pyth network and brand. Creating an open, accessible recognition based contribution framework for participants to contribute and gain social & financial exposure to. This serves to attain and retain community participants in a virtuous feedback loop.
 - How you proposed it. Internal pitch? Forum post? Direct to leadership? Who pushed back?
+-Internally it was pitched as a program that is capable of competing with short term liquidation events in existing crypto communities by having a very long term framework that can retain high quality contributors over long periods of time as a clear point of difference in the market.
 - The rollout. Election process, first cohort, how the first term went.
+-Long onboarding and educations sessions geared toward making the case for this type of governance structure. Lectures and public conversations held in community forums (Telegram, Discord, Twitter) to argue the case and educate existing community members and the team on the benefits of building and maintaining a proper culture within the community that is self sustaining and fundamentally different to existing extractive community structures in web3.
 - The outcome. What did the Council actually ship? What did it unlock (MissionMonitor testing, governance proposals, etc)?
+-Pythentity, Community Hackathon, Kaito (which evolved into MissionMonitor), Impact Awards, Market Quorum, content libraries and narrative directions, governance commentary & proposals.
 - The transition. You served on it. How did term end, and how does election 2 work?
+-Delivered on midterm and end term reports fully outlining the council's activities and achievements throughout the 12 month term. Ultimately the Community Council responsibly oversaw the delegation, allocation & distribution of community grants for community growth activities.
 - The legacy frame. Why this structure specifically — why not advisory board, why not DAO-vote-only.
+-The legacy is a strong one - creation of the council allows individuals in the community to move fast and execute using an existing budget. It allows for fast, reflective iteration via an open governance process that invites comment and critique at all key decision points. Structurally, the legal and financial standing of this council has allowed the PDA to have key community members execute programs that it would not have otherwise been able to.
 
 Target length: 4-6 paragraphs. This is the page's anchor section.]
 
@@ -43,89 +50,103 @@ Everything that existed before the big programs — the bones the later work was
 ### Discord Setup & Structure
 
 [TBD — Chop input needed. The Discord restructure. What was it like before, what you changed, what the logic was. Channel architecture, role system, moderation philosophy. How you mapped the flywheel onto Discord roles and permissions. Target: 2-3 paragraphs.]
+Discord structure that encourages contributors while also ringfences (and therefore discourages) poor contributors and low quality users. Setting something up like this for a community requires thoughtful, considerate (in addition to careful cultural nuances)
 
+Open discussion forums with higher tiers of access that are achieved by performing and adhering to cultural rituals and/or continued genuine contributions to the community and brand at large.
+
+The structure looks different in all communities, but successful ones all follow the same formula.
 ### Impact Awards
 
 [TBD — Chop input needed. The Impact Awards system — Impact Ops (memes, education, amplification), Events, Vibes. Origins of the program, how recipients are chosen, budget/rewards structure, what it unlocked in terms of contributor visibility. Target: 2-3 paragraphs.]
+
+The impact awards system is a self governing, self repairing rewards system that exists to encourage and entice community contributions across a wide range of creative mediums, including twitter, blog writing, events, video/educational content & identity building mechanics.
+the important parts;
+- publicly auditable
+- decentralized mechanics (community rewards community)
+- no hard limits or restrictions of WHAT can be rewarded
+- add gamification and multipliers for implied (and real) volatility.
 
 ### Pythenians NFT
 
 [TBD — Chop input needed. The Pythenians NFT acquisition and community. When/why/how. Current status (your notes mention handover overdue — multisig, Twitter creds, subscriptions). What role it plays in the identity layer. Target: 2 paragraphs.]
 
-### PIRB (Pyth Intelligence Research Bureau)
+Core to creating a community identity that is more tangible than 'financial data', which is amorphous and hard to grasp. Pythenians gives retail consumers an easy touchpoint that ties directly to PYth which is far more engaging and immediately recognizeable than 'data' is.
 
-[TBD — Chop input needed. The invite-only Telegram intelligence agency. Who's in it, what it's for, how it functions as an inner circle for high-signal contributors. Why invite-only and not open. Target: 2 paragraphs.]
+Pythenians also provide a framework for community to display, showcase and contextualize their contributions to the network in many different ways. Users can see their mission contributions, their onchain network participation & get discount, exclusive access to Pyth powered data products that other people do not have access to.
+
+Pythenians enable another level of identity formation around the Pyth Brand. It is a powerful tool to bind people to the Pyth brand and give them reasons, means and feedback on their contributions to the network, ultimately enabling these contributors to derive meaning from their participation in the network.
+
 
 ---
 
 ## Operational Systems
 
-The programs I ship as **architecture, not events** — systems that run forever once built.
+The programs a good community ships are **architecture, not events.** They are community run systems that can be sustained forever, once built.
 
 ### MissionMonitor
 
 The operational heart of community content creation. Live in production.
 
-A mission delivery system that turns campaign requests into structured briefs, routes them to Telegram and Discord simultaneously, tracks submissions, handles judging via emoji reactions, auto-closes on deadline, and exports results to Google Sheets for payout tracking.
+A propaganda (mission) delivery system that turns campaign requests into structured briefs, routes them to Telegram and Discord simultaneously, tracks content submissions, handles judging via community votes, auto-closes on deadline, exports results to Google Sheets for payouts & tracks payouts and their use after ending.
 
 The philosophy is simple: **we provide FACTS, creators provide VOICE.** Mission briefs are factual-only — no editorial framing, no pre-written tweets, no "say this." We give creators the data points, the sources, and directional angles. The creative expression is theirs. This is the only way community content stays authentic at scale.
 
 First real deployment was with the Community Council as judges. Referrals system (10% split on attributed submissions, 90-day expiry, self-referral rejection) is coded and awaiting backtest before rollout.
 
-### PythClippers
-
-Clip submission and rewards engine for Discord and Telegram. Built in partnership with the MissionMonitor architecture — they're designed to merge eventually into a single unified content + incentives platform.
-
-Currently staged at 6 of 8 deployment phases. Remaining: production API keys, Docker deploy to VPS, E2E verification, and the legal T&C wrapper that gates the rewards layer.
-
 ### Pythentity
 
-The verified identity layer for all content and incentive programs. MVP is live.
+The verifiable identity layer for all of Pyth's community content and grants programs. Anyone can participate, but owning a [Pythenian](https://www.coingecko.com/en/nft/pythenians) has distinct benefits.
 
-The problem: incentive programs without identity become sybil farms. Every bot, every alt account, every extractive participant drains the budget and starves real contributors. Pythentity gates the next generation of Pyth community programs — your identity, once verified, travels with you across MissionMonitor, PythClippers, Impact Awards, and anything else we build.
+Most incentive programs get zero sum engagement from low quality mercenaries.
+The problem: incentive programs without identity become sybil farms. Every drop of inauthenticity from these people sucks life from the community & therefore the brand. Pythentity gates the next generation of Pyth community programs to evangalists. Pythentity is access to everything Pyth can build.
 
-Positioned strategically as **the gate for the next incentive program**, which means every future program that launches pulls more contributors into the verified identity graph. That's the flywheel — identity isn't a side feature, it's the substrate.
+Positioned strategically as **grants program enhancement**, which means every future program that launches pulls more contributors into the verified identity graph. The NFT connects the dots with all of Pyth's most dedicated contributors.
 
+Pythentity supports all chains, just as Pyth does. It aims to signpost all wiling Pyth contributors' activities across the onchain ecosystem. The creation of this program was initiated as one of the first direct usages of the Community Grants program, receiving 80,000 Pyth for delivery of an MVP program.
+
+The Pythenian community came from the resurrection of an old NFT community the 'pikenians'. Pythenians were conceived from the Ashes, resurrecting an old community. The Pythenians NFT launch was one of the most successful NFT launches of 2025.
 [TBD — Chop input needed: the specific design decisions behind Pythentity (why EVM wallet support, why this identity model vs. others), the partner / grant context (68K PYTH from an 80K grant — what that covered), the migration plan. Target: 1-2 additional paragraphs.]
 
 ### Content Incentive Stack
 
-Not a single program — **layers of one machine**.
+Not a single program — **contribution layers of one machine**.
 
 ```
 Video Transcripts (117+ files)
-    > Notion Database (team discovery layer)
-    > PythClippers (clip submission + rewards)
+    > Notion Database (discovery layer)
+    > Community Content Hub (education layer)
     > MissionMonitor (missions + judging + referrals)
-    > Google Sheets (payout tracking)
-    > Clipping Incentive Program (2M PYTH budget)
+    > Data Dashboard + Reviews system (finance tracking)
+    > Clipping Incentive Program (6M PYTH budget)
 ```
 
-The insight: most protocols treat content as a marketing output. I treat it as a contribution input. The stack turns every hour of video Pyth leadership records into 100+ clips, 50+ missions, and a permanent, searchable, creator-facing content library that anyone in the community can mine.
+The insight: most protocols treat content as a marketing output. I think people should treat it as a a contributor input. The stack turns every hour of video Pyth content into 100+ clips, 50+ missions, and a permanent, searchable, creator-facing content library that anyone in the community can take advantage of.
 
-Middle pieces are live. Input layer (Notion DB for team discovery) and legal wrapper (T&Cs for the 2M PYTH clipping budget) are the current blockers.
+This is all live now. Message @TheIntelligentsiaBot in Telegram to find out more.
 
 ### Vibecodeathon
 
 A 6-week community hackathon running on the Pyth dev forum. Low-barrier entry (no KYC, no application period, no IRL requirement, no skill gating). Gives builders free access to institutional-grade price feeds and lets them ship whatever they want with it.
 
-55 submissions in round one, ~70% backloaded into the final week (a pattern worth planning for — see the case study in my upcoming blog series on [community hackathon design](../../drafts/01-hackathon-worked) once it publishes).
+35 submissions in round one, ~70% backloaded into the final week (a pattern worth planning for — see the case study in my upcoming blog series on [community hackathon design](../../drafts/01-hackathon-worked) once it publishes).
+
+A highly instructive, high quality community activity. The most successful hackathon Pyth has ever participated in accounting for budget (200,000 PYTH) & engagement.
 
 ---
 
 ## Strategic Content Programs
 
-### Asset Info Packs (AI Discoverability)
+### Statistics & Asset Info Packs (AI Discoverability)
 
-The content pipeline for Pyth's AI visibility push. Each pack (XAU gold, BTC, ETH, equities, FX, commodities) generates 15-20 derivative content pieces across 8 channels, structured to maximize LLM citation rates — answer capsules at the 40-60 word length LLMs prefer, statistics every 150 words, schema.org markup for machine readability.
+The content pipeline for Pyth's AI visibility push. The Community Library on the DAO forum and Each pack (XAU gold, BTC, ETH, equities, FX, commodities) is designed to generate 15-20 derivative content pieces across 8 community channels, structured to maximize LLM citation rates.
 
 The strategic bet: when a developer asks Claude or ChatGPT "how do I get price data for my app?", Pyth has to be in the top three suggestions. Right now it isn't. The content gap is closing that. See [[thesis#ai-discoverability]] for the full argument.
 
-### Twitter Growth System (@CHOPPAtheSHARK)
+### Content Philosophy (@CHOPPAtheSHARK)
 
-The operational system behind my Twitter presence — 7 tracking files covering strategy, pillar-classified content bank, weekly queue, 8-week thread pipeline, daily routine, reply targets, and metrics. Built for compounding: 30-min daily execution, no bursts, no campaigns.
+You can just try things. 
 
-The theory is in [[philosophy#systems-over-campaigns]]. The execution is the proof of concept.
+The theory is in [[philosophy#systems-over-campaigns]]. The execution is very gradual. The online presence is constantly evolving.
 
 ---
 
