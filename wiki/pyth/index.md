@@ -10,9 +10,9 @@ updated: 2026-04-21
 
 **Role:** Community Lead, Pyth Network
 
-I run the community function at Pyth Network — the first-party oracle network delivering 400+ price feeds across 100+ blockchains, powering 60% of perpetuals protocols on-chain. The thesis is simple: Pyth is building the **price layer for global finance**, and the $50B+ financial data industry that Bloomberg and Reuters have dominated for decades is being quietly disrupted underneath it.
+I run the Community (culture) at Pyth Network — the first-party oracle network delivering 400+ price feeds across 100+ blockchains, powering 60+% of perpetuals protocols on-chain. The Pyth thesis is a pretty simple one: We are building the **price layer for global finance**, and the $50B+ financial data industry that Bloomberg and Reuters have dominated for decades is being heavily disrupted.
 
-My job is to make sure the 500K+ community around this network is the moat — not a marketing funnel, not a vanity metric, but a real cultural machine that compounds over decades. Partnerships, integrations, and ecosystem wins flow *out* of that community gravity; they don't precede it.
+My job is to make sure the 500K+ community in this network this network acts as Pyth's moat. Community isn't a marketing funnel, or specific KPI. It is a cultural machine which compounds into a living, breathing movement over decades. Network growth - partnerships, innovation & integration wins flow *out* of that community gravity. Progress is not preceded by community.
 
 ---
 
