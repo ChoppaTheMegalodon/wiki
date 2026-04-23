@@ -15,6 +15,18 @@
 - Updated: `wiki/index.md`
 - First ingest of the vault. Seeds two foundational thesis pages (`invisibility-tax`, `portfolio-as-proof`) that future sources are likely to cross-reference.
 
+## [2026-04-23] expand | Reading List built out — 4-theme structure + 11 source pages
+- Promoted `wiki/pyth/research/` → top-level `wiki/reading/` (broader than Pyth; cleaner public URL)
+- Rewrote `reading/index.md` around Chop's four themes: Community, Cults, Communication, Culture
+- Created 11 source pages from Chop's list:
+  - **Books:** get-together, network-state, web3-marketing-handbook, neuromancer (currently reading), meditations
+  - **1kx essays:** assessing-community-hires, grant-programs, operational-autonomy, hard-thing-communities
+  - **Tweets:** pet3rpan-community-1473 (Dec 2021), pet3rpan-community-1403 (June 2021) — stubbed for Chop to fill in content since tweet text requires his input
+- Each page follows the Karpathy source-page pattern: core thesis, key ideas, where-it-shows-up-in-my-work, pull quotes, where-I-disagree, related
+- Where I had solid knowledge (books, 1kx essays), wrote first-pass content with Chop-specific connections to his existing writing. Flagged `[TBD]` for pushback/disagreement sections since those are uniquely his.
+- Updated `wiki/index.md` landing: added "Reading" section as second primary block
+- Updated `wiki/pyth/thesis.md`: cross-ref now points to `../reading/index` (moved from `research/index`)
+
 ## [2026-04-23] scaffold | Research + Influences hub
 - Created `wiki/pyth/research/` folder with `index.md` — categorized landing (Books / Essays / Talks / Articles / Conversations)
 - Includes reusable per-source template for book/paper/talk pages (title, core thesis, key ideas, where-it-shows-up-in-my-work, pull quotes, disagreements, related)
