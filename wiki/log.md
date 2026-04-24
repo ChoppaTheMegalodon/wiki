@@ -15,6 +15,24 @@
 - Updated: `wiki/index.md`
 - First ingest of the vault. Seeds two foundational thesis pages (`invisibility-tax`, `portfolio-as-proof`) that future sources are likely to cross-reference.
 
+## [2026-04-24] expand | Reading List — added Misc section + 9 new source pages
+- Created 9 new stub pages under `wiki/reading/`:
+  - **Digital Future in the Rearview Mirror** (Andrey Mir, 2024) — media ecology
+  - **Book of Longing** (Leonard Cohen, 2006) — poetry
+  - **The Map and the Territory** (Alan Greenspan, 2013) — post-2008 finance
+  - **21st Century Monetary Policy** (Ben Bernanke, 2022) — Fed history
+  - **The Evolution of Everything** (Matt Ridley, 2015) — emergence
+  - **Desolation Angels** (Jack Kerouac, 1965) — solitude/community
+  - **Fanged Noumena** (Nick Land, 2011) — accelerationism
+  - **The Contrarian** (Max Chafkin — corrected from "Chauvin" — 2021) — Thiel biography
+  - **The Decameron** (Boccaccio, 1353) — plague-era storytelling community
+- Each page has frontmatter + one-paragraph Core Thesis I could write from existing knowledge. Remaining sections stubbed for Chop to fill over time.
+- Added `## Misc` section to `reading/index.md` listing all 9 entries
+- Cross-listed where relevant:
+  - Nick Land added to Cults section
+  - Decameron, Desolation Angels, Book of Longing, Fanged Noumena added to Culture section
+- Log, build, push
+
 ## [2026-04-23] expand | Reading List built out — 4-theme structure + 11 source pages
 - Promoted `wiki/pyth/research/` → top-level `wiki/reading/` (broader than Pyth; cleaner public URL)
 - Rewrote `reading/index.md` around Chop's four themes: Community, Cults, Communication, Culture

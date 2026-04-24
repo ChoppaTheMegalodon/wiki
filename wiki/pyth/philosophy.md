@@ -69,9 +69,9 @@ This framework kills more ideas than it greenlights. That's the point. Most idea
 
 ---
 
-## The 'Pub Test'
+## Australian's love a 'Pub Test'..
 
-If someone at the pub doesn't understand your pitch, your program, or your value proposition, it probably sucks.
+If someone 2 pints deep at the pub doesn't understand your story (pitch, product, idea, deal) it probably sucks. It doesn't pass the pub test.
 
 Complexity & Jargon is not depth or quality. Every piece of community-facing communication must be easily explained to someone 3 pints deep at your local watering hole.
 

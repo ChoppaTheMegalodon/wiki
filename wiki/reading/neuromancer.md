@@ -46,4 +46,4 @@ Not a thesis so much as a *substrate*. Neuromancer is the cyberpunk ur-text — 
 ## Related
 
 - [[network-state|The Network State]] — Balaji explicitly engages with cyberpunk imaginaries. The network state is partly a response to Gibson's vision of sovereignty-leaking-to-corporations — an attempt to route it to communities instead.
-- [[../writings/Exploring%20my%20fascination%20with%20Web3%20and%20Runescape/Exploring-my-fascination-with-Web3-and-Runescape|Web3 + Runescape essay]] — my own attempt at the same kind of worldbuilding, much less literary.
+- [[../writings/Exploring%20my%20fascination%20with%20Web3%20and%20Runescape/Exploring-my-fascination-with-Web3-and-Runescape|Web3 + Runescape essay]] — my own early attempt at the same kind of worldbuilding, much less literary.

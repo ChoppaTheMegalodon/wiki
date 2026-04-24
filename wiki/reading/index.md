@@ -36,8 +36,9 @@ Mass movement mechanics. Why people believe, what makes belief sticky, why the b
 
 - [[network-state|The Network State]] — Balaji Srinivasan. The network state is arguably a cult with better UX. Read as a cult-construction manual.
 - [[1kx-hard-thing-communities|The Hard Thing About Communities]] — touches on cultural capture, when a community becomes dogma instead of dialog.
+- [[fanged-noumena|Fanged Noumena]] — Nick Land. Accelerationism as metaphysical cult, the philosophical substrate underneath a lot of techno-right thinking.
 
-*More to add. Currently reading candidates below.*
+*More to add.*
 
 ## Communication
 
@@ -54,6 +55,26 @@ The weirder, slower, higher-leverage layer. What people actually care about when
 - [[neuromancer|Neuromancer]] — William Gibson, 1984. (Currently reading.) Cyberpunk founding text. Coined "cyberspace." The aesthetic and imaginary substrate underneath almost all crypto culture.
 - [[meditations|Meditations]] — Marcus Aurelius, ~180 AD. Stoic philosophy as personal journal. Discipline, endurance, what you control vs. what you don't. Personal operating system.
 - [[network-state|The Network State]] — Balaji Srinivasan. Cultural argument more than a political one. How a tribe becomes a people becomes a nation.
+- [[decameron|The Decameron]] — Giovanni Boccaccio, 1353. A group flees plague and holds itself together through storytelling. Community as what survives when institutions don't.
+- [[desolation-angels|Desolation Angels]] — Jack Kerouac, 1965. Solitude vs. community, both costly, neither sufficient.
+- [[book-of-longing|Book of Longing]] — Leonard Cohen, 2006. Not community theory — tonal permission to hold contradictions.
+- [[fanged-noumena|Fanged Noumena]] — Nick Land, 2011. Accelerationist philosophy; the philosophical substrate of crypto's techno-right vocabulary.
+
+---
+
+## Misc
+
+Things that don't sit cleanly in the four themes but shape how I think. Finance, biography, philosophy, literature — read for their own sake or because they happen to orbit the same questions from a weirder angle.
+
+- [[digital-future-rearview-mirror|Digital Future in the Rearview Mirror]] — Andrey Mir, 2024. Media ecology: digital age as the third Axial shift in human cognition.
+- [[book-of-longing|Book of Longing]] — Leonard Cohen, 2006. Poetry + drawings from the Zen monastery years.
+- [[map-and-territory|The Map and the Territory]] — Alan Greenspan, 2013. Post-2008 reflection on why economic models fail.
+- [[21st-century-monetary-policy|21st Century Monetary Policy]] — Ben Bernanke, 2022. Fed history from Great Inflation to COVID. Macro context for anything crypto-adjacent.
+- [[evolution-of-everything|The Evolution of Everything]] — Matt Ridley, 2015. Bottom-up emergence as the default mechanism of change.
+- [[desolation-angels|Desolation Angels]] — Jack Kerouac, 1965. Autobiographical novel, solitude + social chaos.
+- [[fanged-noumena|Fanged Noumena]] — Nick Land, 2011. Accelerationist essays; foundational and corrosive in equal measure.
+- [[the-contrarian|The Contrarian]] — Max Chafkin, 2021. Critical biography of Peter Thiel; context for how Silicon Valley actually thinks.
+- [[decameron|The Decameron]] — Giovanni Boccaccio, 1353. Plague-era Florence, ten people, one hundred stories, a working community.
 
 ---
 
