@@ -84,8 +84,12 @@ Things that don't sit cleanly in the four themes but shape how I think. Finance,
 
 ## To Be Added
 
-Books and essays I've read or am working through that haven't been written up yet. When a source graduates to a full page, it moves up the list.
+Books and essays I've read or am working through that haven't been written up yet, plus things on the to-read list. When a source graduates to a full page, it moves up the list.
 
+**To read:**
+- [[creativity-csikszentmihalyi|Creativity]] — Mihaly Csikszentmihalyi, 1996. Systemic theory of creativity (individual / domain / field). On the list because that triangle reads like community design infrastructure.
+
+**Read but not yet written up:**
 - *(add here as they come)*
 
 ---

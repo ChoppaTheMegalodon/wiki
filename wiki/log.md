@@ -15,6 +15,11 @@
 - Updated: `wiki/index.md`
 - First ingest of the vault. Seeds two foundational thesis pages (`invisibility-tax`, `portfolio-as-proof`) that future sources are likely to cross-reference.
 
+## [2026-05-08] reading | Added Csikszentmihalyi's *Creativity* to to-read list
+- Created `wiki/reading/creativity-csikszentmihalyi.md` as placeholder. Frontmatter tag: `to-read`.
+- Updated `reading/index.md` "To Be Added" section: split into "To read" and "Read but not yet written up" sub-lists.
+- Page has a "Why It's On the List" stub explaining the angle (systemic creativity model = community design framing). Other sections TBD until read.
+
 ## [2026-05-08] publish | First essay written natively in the wiki
 - Published: **"What happens if you give away over $300K of Institutional Data?"** at `wiki/writings/300k-institutional-data.md`
 - Source draft lived in `raw/src-notes-why-community-hackathon-worked.md` (gitignored). Promoted to public location with frontmatter (title, type: essay, public: true, tags).
