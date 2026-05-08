@@ -27,6 +27,7 @@ This site is a living knowledge base. Built in the [Karpathy pattern](https://ka
 - [[portfolio-as-proof]] — Why proof-of-thought is the new proof-of-work, and portfolios aren't just for designers anymore.
 
 **Writings**
+- [What happens if you give away over $300K of Institutional Data?](./writings/300k-institutional-data) — *(May 2026)* Hackathon post-mortem. What worked, what I fucked up, and why genuine programs outperform tokenistic ones.
 - [Why Communities Beat VCs](./writings/why-communities-beat-vcs/why-communities-beat-vcs) — The parent thesis. Flywheel, vibe economy, tokens as cultural infrastructure.
 - [Creating a Community Cult(ure)](./writings/creating%20a%20community%20cult%28ure%29/Creating-a-community-cult%28ure%29) — Memetic community cults, political science applied to Web3.
 - [Crabs in a Bucket](./writings/Crabs%20in%20a%20Bucket;%20a%20Crypto%20Seafood%20Boil/Crabs-in-a-Bucket-a-Crypto-Seafood-Boil) — Cultural immune systems, energy vampires, extraction defense.

@@ -15,6 +15,13 @@
 - Updated: `wiki/index.md`
 - First ingest of the vault. Seeds two foundational thesis pages (`invisibility-tax`, `portfolio-as-proof`) that future sources are likely to cross-reference.
 
+## [2026-05-08] publish | First essay written natively in the wiki
+- Published: **"What happens if you give away over $300K of Institutional Data?"** at `wiki/writings/300k-institutional-data.md`
+- Source draft lived in `raw/src-notes-why-community-hackathon-worked.md` (gitignored). Promoted to public location with frontmatter (title, type: essay, public: true, tags).
+- This is the first long-form piece written natively in the choppa.wiki vault (rather than migrated from kampfire-digital). Marks the wiki transitioning from "archive of old work" to "active publishing platform."
+- Updated `wiki/writings/MANIFEST.md` (added entry #7)
+- Updated `wiki/index.md` landing — featured as newest piece in Writings section
+
 ## [2026-04-24] expand | Reading List — added Misc section + 9 new source pages
 - Created 9 new stub pages under `wiki/reading/`:
   - **Digital Future in the Rearview Mirror** (Andrey Mir, 2024) — media ecology

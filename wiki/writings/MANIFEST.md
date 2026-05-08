@@ -16,6 +16,7 @@ Previously hosted on the kampfire-digital v1 site (before the site was refocused
 | 4 | [Foundational Community](./foundational%20community/Foundational-Community.md) | pre-2024 | Published (Substack) | Blockchain foundations, GM culture, family vs community, decentralization principles |
 | 5 | [Pseudonymity, Digital Identity & Crypto](./Pseudonymity%2C%20Digital%20Identity%20%26%20Crypto/Pseudonymity-Digital-Identity-%26-Crypto.md) | pre-2024 | Published (Substack) | Pseudonymous identity, reputation-as-income, Runescape/MMO parallels |
 | 6 | [Exploring Web3 and Runescape](./Exploring%20my%20fascination%20with%20Web3%20and%20Runescape/Exploring-my-fascination-with-Web3-and-Runescape.md) | pre-2024 | Published (Substack) | Web3 as metagame, pandemic as learning window, adventure economy framing |
+| 7 | [What happens if you give away over $300K of Institutional Data?](./300k-institutional-data.md) | 2026-05-08 | Published (choppa.wiki — first piece written natively here) | Hackathon post-mortem, access-not-incentives, content-as-byproduct, BD self-critique |
 
 **Note on the Runescape post:** the markdown file contains embedded base64 images (~1.6MB). When migrating to the Chop site, strip and re-link images properly.
 
